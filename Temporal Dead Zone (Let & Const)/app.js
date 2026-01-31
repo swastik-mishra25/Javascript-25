@@ -3,3 +3,4 @@ console.log(b); // The timming between the hoisting and value assignation...that
 let a = 10; // Temporal dead zone ends
 console.log(a);
 var b = 100;
+console.log(x);
