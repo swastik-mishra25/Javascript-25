@@ -1,5 +1,4 @@
-a();
-b();
+
 //Function Statement aka Function Declaration
 function a() {
     console.log("a called");
@@ -9,13 +8,18 @@ function a() {
 var b = function () {
     console.log("b called");
 }
-
+a();
+b();
 
 //Anonymous Function
-function() {
+// function() {
 
-}
+// }
 //Named Function Expression
+var c = function xyz(){
+    console.log("c called");
+}
+
 //Difference between Parameters and Arguments
 //First Class Functions
 //Arrow Functions
