@@ -21,6 +21,8 @@ var c = function xyz(){
 }
 xyz();
 
+
+
 //Difference between Parameters and Arguments
 //First Class Functions
 //Arrow Functions
