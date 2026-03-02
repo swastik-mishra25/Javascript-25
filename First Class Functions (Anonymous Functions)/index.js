@@ -19,6 +19,7 @@ b();
 var c = function xyz(){
     console.log("c called");
 }
+xyz();
 
 //Difference between Parameters and Arguments
 //First Class Functions
