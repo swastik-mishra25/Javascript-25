@@ -23,4 +23,7 @@ xyz(); //It will throw error as it is executed in the outerscope but it will not
 //Difference between Parameters and Arguments
  
 //First Class Functions
+
+//Functions are first class citizens means same as first class functions..
+
 //Arrow Functions
